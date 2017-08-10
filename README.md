@@ -1,6 +1,6 @@
 # Course3: Collecting and Cleaning Data
 
-This repo is for the project for the third course in the Data Science Specialization from John Hopkins on Coursera. In this course the student learns to gather data which can be from various resources. The collected data which is most often unorganized is needs to be tidied for analysis. Thus this course teaches the student to collect, clean the dat, and analyze the tidied data set. The following is submitted along with this readme:
+This repo is for the project for the third course in the Data Science Specialization from John Hopkins on Coursera. In this course the student learns to gather data which can be from various resources. The collected data which is most often unorganized needs to be tidied for analysis. Thus this course teaches the student to collect, clean the data, and analyze the tidied data set. The following is submitted along with this readme:
 
 1) a tidy data set 
 2) a link to a Github repository with script for performing the analysis 
