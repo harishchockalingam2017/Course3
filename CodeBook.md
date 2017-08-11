@@ -13,15 +13,15 @@ combines all the x, y and subject data sets by using the cbind function
 
 And finally using the ddply function the merged data is tidied.
 
-Variables:
-traindataX - X_train
-traindataY - Y_train
-trainSubject - Subject_train
+<br> Variables: </br>
+<br> traindataX - X_train </br>
+<br> traindataY - Y_train </br>
+<br> trainSubject - Subject_train </br>
 
-testdataX - X_test
-testdataY - Y_test
-testSubject - Subject_test
+<br> testdataX - X_test </br>
+<br> testdataY - Y_test </br>
+<br> testSubject - Subject_test </br>
 
-mergeX - merged X_train and X_test data
-mergeY - merged Y_train and Y_test data
-mergeSubject - merged Subject_train and Subject_test data
+<br> mergeX - merged X_train and X_test data </br>
+<br> mergeY - merged Y_train and Y_test data </br>
+<br> mergeSubject - merged Subject_train and Subject_test data </br>
